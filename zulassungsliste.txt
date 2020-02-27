@@ -7,3 +7,6 @@
 #
 #
 #BEGIN WHITELIST#
+nitroflare.com
+fanart.tv
+hqq.tv
