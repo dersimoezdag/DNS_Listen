@@ -2,7 +2,7 @@
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
 #Author: DOE
 #Home: https://github.com/DMOEdetc/DNS_Listen
-#@ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/blockliste.txt
+#@ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #Updated: 27.02.2020
 #
 #
