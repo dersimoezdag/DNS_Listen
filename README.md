@@ -16,7 +16,6 @@ Lässt das Skript um 01:00 Uhr einmalig pro Woche laufen
 ```
 cd /opt/
 sudo git clone https://github.com/DMOEdetc/DNS_Listen.git
-
 sudo nano /etc/crontab
 ```
 
