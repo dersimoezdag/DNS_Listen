@@ -1,6 +1,9 @@
 # DNS Listen:
 
 ## Installation:
+
+Eventuell müssen Berechtigungen angepasst werden.
+
 ### Für manuelle Updates:
 
 ```
