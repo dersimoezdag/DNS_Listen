@@ -16,7 +16,7 @@ if [ "$(id -u)" != "0" ] ; then
 	exit 2
 fi
 
-curl -sS https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/zulassungsliste.txt | sudo tee -a "${PIHOLE_LOCATION}"/whitelist.txt >/dev/null
+curl -sS https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/listen/zulassungsliste.txt | sudo tee -a "${PIHOLE_LOCATION}"/whitelist.txt >/dev/null
 echo -e " ${TICK} \e[32m Füge Domains zur whitelist hinzu... \e[0m"
 sleep 0.1
 echo -e " ${TICK} \e[32m Entferne Duplikate... \e[0m"
