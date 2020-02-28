@@ -1,7 +1,7 @@
-#DNS Listen:
+# DNS Listen:
 
-##Installation:
-###Für Manuelle Updates:
+## Installation:
+### Für Manuelle Updates:
 
 ```
 git clone https://github.com/DMOEdetc/DNS_Listen.git
@@ -9,7 +9,7 @@ cd DNS_Listen
 sudo ./zulassungslisten_updater.sh
 ```
 
-###FürAutomatisches Update:
+### FürAutomatisches Update:
 
 Lässt das Skript um 01:00 Uhr einmalig pro Woche laufen
 
