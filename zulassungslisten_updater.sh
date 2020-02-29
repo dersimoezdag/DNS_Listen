@@ -10,7 +10,7 @@ echo -e "\n"
 echo -e " \e[1m Updater created by DOE \e[0m"
 echo -e " \e[1m https://github.com/DMOEdetc/ \e[0m"
 echo -e "\n"
-echo -e " \e[1m Das Script wird die Zulassungsliste aus dem Repo holen und in whitelist.txt übertragen. \e[0m"
+echo -e " \e[1m Das Script wird die Zulassungsliste aus dem Repository holen und in die whitelist.txt übertragen. Dies kann wenige Minuten dauern.\e[0m"
 echo -e "\n"
 echo -e "\n"
 sleep 1
