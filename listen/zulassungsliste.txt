@@ -1,5 +1,5 @@
-### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
-### Work in progress - will be adding new domains as I find them through a number of methods. ###
+# A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)
+# 
 # Author: DOE
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub: https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/zulassungsliste.txt
