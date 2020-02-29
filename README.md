@@ -25,7 +25,7 @@ sudo nano /etc/crontab
 Diese Zeile an das Ende der Datei anfügen:
 
 ```
-0 0 * * 5   root  /opt//DNS_Listen/zulassungslisten_updater.sh
+0 0 * * 5   root  /opt/DNS_Listen/zulassungslisten_updater.sh
 ```
 
 Strg + X, dann mit Y bestätigen und Enter drücken. Nun noch die Berechtigungen anpassen und das Skript das erste mal ausführen.
