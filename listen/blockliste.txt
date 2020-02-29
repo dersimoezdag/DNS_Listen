@@ -1,46 +1,40 @@
 ### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
-#Author: DOE
-#Home: https://github.com/DMOEdetc/DNS_Listen
-#@ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
-#Updated: 27.02.2020
+# Author: DOE
+# Home: https://github.com/DMOEdetc/DNS_Listen
+# @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
+# Updated: 29.02.2020
 #
-#BEGIN BLOCKLIST#
-(^|\.)adultgame$
-(^|\.)adultyourblocksitecom-715562312\.us-east-1\.elb\.amazonaws\.com$
-(^|\.)advisepchelp$
-(^|\.)best-dates-here\.com$
-(^|\.)best2019-games-web$
-(^|\.)best2019-games-web4\.com$
-(^|\.)best2019-games-web4\.com$
-(^|\.)bitcoinnews\.buzz$
-(^|\.)browsergames20$
-(^|\.)dadsats\.com$
-(^|\.)dadsats\.com$
-(^|\.)dzluozfq$
-(^|\.)freeadult$
-(^|\.)gambigambiwinwin\.com$
-(^|\.)game7350\.grownsnd31\.live$
-(^|\.)gotrack1\.es$
-(^|\.)installflash-stream$
-(^|\.)mydirtyhobby$
-(^|\.)mydirtyhobby$
-(^|\.)nvh3cqf9\.jijiuyexzx\.host$
-(^|\.)o3sndvzo25$
-(^|\.)o3sndvzo25\.com$
-(^|\.)o3sndvzo25\.com$
-(^|\.)o3sndvzo25\.com$
-(^|\.)o3sndvzo25\.com$
-(^|\.)rotumal\.com$
-(^|\.)sadskiz\.com$
-(^|\.)screenaddict\.thewhizproduct$
-(^|\.)sexdates3$
-(^|\.)sunmaker\.com$
-(^|\.)sunmaker\.com$
-(^|\.)systemscan30$
-(^|\.)takelnk\.com$
-(^|\.)www\.ecpms\.net$
-(^|\.)www\.searchreward\.site$
-(^|\.)www\.searchreward\.site$
-(^|\.)www\.systemscan30\.top$
+# BEGIN BLOCKLIST:
+adultgame
+adultyourblocksitecom-715562312.us-east-1.elb.amazonaws.com
+advisepchelp
+best-dates-here.com
+best2019-games-web
+best2019-games-web4.com
+best2019-games-web4.com
+bitcoinnews.buzz
+browsergames20
+dadsats.com
+dadsats.com
+dzluozfq
+freeadult
+gambigambiwinwin.com
+game7350.grownsnd31.live
+gotrack1.es
+installflash-stream
+mydirtyhobby
+mydirtyhobby
+nvh3cqf9.jijiuyexzx.host
+o3sndvzo25.com
+rotumal.com
+sadskiz.com
+screenaddict.thewhizproduct
+sexdates3
+sunmaker.com
+systemscan30
+takelnk.com
+ecpms.net
+searchreward.site
+systemscan30.top
