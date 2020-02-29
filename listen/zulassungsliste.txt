@@ -3,10 +3,30 @@
 #Author: DOE
 #Home: https://github.com/DMOEdetc/DNS_Listen
 #@ GitHub: https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/zulassungsliste.txt
-#Updated: 27.02.2020
 #
+#Updated: 29.02.2020
 #
 #BEGIN WHITELIST#
+#
+#Google
+s.youtube.com
+video-stats.l.google.com
+#
+#Microsoft
+officeclient.microsoft.com
+settings-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+#
+#Hoster
 nitroflare.com
+#
+#Sonstige
+prod.telemetry.ros.rockstargames.com
+delivery.vidible.tv 
+img.vidible.tv 
+videos.vidible.tv 
+edge.api.brightcove.com 
+cdn.vidible.tv
 fanart.tv
 hqq.tv
