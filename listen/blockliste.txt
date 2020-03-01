@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 29.02.2020
+# Updated: 01.03.2020
 #
 # BEGIN BLOCKLIST:
 gotrack1.es
@@ -20,7 +20,6 @@ dzluozfq.com
 freeadult.com
 gambigambiwinwin.com
 game7350.grownsnd31.live
-gotrack1.es
 installflash-stream.com
 mydirtyhobby.de
 mydirtyhobby.com
