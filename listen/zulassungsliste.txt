@@ -21,6 +21,12 @@ v20.vortex-win.data.microsoft.com
 # Hoster
 nitroflare.com
 #
+# Unsubscribe
+dashboard.webengage.com
+#
+# Retoureservices
+mandrillapp.com
+#
 # Sonstige
 prod.telemetry.ros.rockstargames.com
 delivery.vidible.tv 
