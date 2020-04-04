@@ -48,3 +48,4 @@ susi.live
 systemscan30.top
 takelnk.com
 eu-adsrv.rtbsuperhub.com
+static.exdynsrv.com
