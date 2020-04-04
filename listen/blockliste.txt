@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 07.03.2020
+# Updated: 04.04.2020
 #
 # BEGIN BLOCKLIST:
 adultgame.com
