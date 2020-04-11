@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 04.04.2020
+# Updated: 11.04.2020
 #
 # BEGIN BLOCKLIST:
 adultgame.com
@@ -37,6 +37,7 @@ mydirtyhobby.de
 node--olivia.vivo.sx
 nvh3cqf9.jijiuyexzx.host
 o3sndvzo25.com
+pf4y2a54hx.com
 premiumize.me
 rotumal.com
 runative-syndicate.com
