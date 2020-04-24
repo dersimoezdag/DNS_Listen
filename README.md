@@ -11,6 +11,7 @@ Eventuell müssen Berechtigungen angepasst werden.
 ```
 git clone https://github.com/DMOEdetc/DNS_Listen.git
 cd DNS_Listen
+chmod +x zulassungslisten_updater.sh
 sudo ./zulassungslisten_updater.sh
 ```
 
