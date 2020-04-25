@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 11.04.2020
+# Updated: 25.04.2020
 #
 # BEGIN BLOCKLIST:
 adult.yourblocksite.com
@@ -19,7 +19,9 @@ biete-heute-an.online
 bitcoinnews.buzz
 browsergames2.com
 browsergames2019.com
+cjf25jklrwqt.com
 dadsats.com
+destore-daindmade.com
 dzluozfq.com
 easygamepromo.com
 ecpms.net
@@ -41,6 +43,7 @@ nvh3cqf9.jijiuyexzx.host
 o3sndvzo25.com
 pf4y2a54hx.com
 premiumize.me
+r6ztccbkdrbi.com
 rotumal.com
 runative-syndicate.com
 sadskiz.com
