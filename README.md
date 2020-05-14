@@ -2,7 +2,7 @@
 
 Mit diesem Projekt sollen DNS-Listen für Pi-hole leicht zur Verfügung gestellt werden.
 
-Achtun:
+Kompatibel mit Pi-Hole 5!
 
 ## Installation:
 
