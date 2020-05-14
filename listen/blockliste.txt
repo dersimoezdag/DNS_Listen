@@ -4,15 +4,18 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 25.04.2020
+# Updated: 14.05.2020
 #
 # BEGIN BLOCKLIST:
+adspyglass.com
 adult.yourblocksite.com
 adultgame.com
 adultgames.com
 adultyourblocksitecom-715562312.us-east-1.elb.amazonaws.com
 advisepchelp.com
 airdsply.com
+amanda.ttnrd.com
+bbom2b434493.com
 best-dates-here.com
 best2019-games-web4.com
 biete-heute-an.online
@@ -33,6 +36,7 @@ gambigambiwinwin.com
 game7350.grownsnd31.live
 go.stripchat.com
 gotrack1.es
+hentaiheroes.com
 installflash-stream.com
 ladsats.com
 lapalingo.com
@@ -54,6 +58,6 @@ sunmaker.com
 susi.live
 systemscan30.top
 takelnk.com
-wrison-subustall.com
-amanda.ttnrd.com
 top5ficktreffen.de
+wrison-subustall.com
+z3dmbpl6309s.com
