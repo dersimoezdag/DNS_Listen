@@ -41,3 +41,9 @@ sudo chmod a+x  zulassungslisten_updater.sh
 sudo ./zulassungslisten_updater.sh
 ```
 
+## Deinstallation:
+
+```
+cd /opt/
+sudo rm -rf DNS_Listen
+```
