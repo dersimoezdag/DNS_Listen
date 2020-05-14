@@ -11,6 +11,7 @@ echo -e " \e[1m Updater created by DOE \e[0m"
 echo -e " \e[1m https://github.com/DMOEdetc/ \e[0m"
 echo -e "\n"
 echo -e " \e[1m Das Script wird die Zulassungsliste aus dem Repository holen und in die whitelist.txt übertragen. Dies kann wenige Minuten dauern.\e[0m"
+echo -e " \e[1m Sollten eine Reihe roter 'X' auftreten ist dies kein Grund zur Sorge. Alles funktioniert.\e[0m"
 echo -e "\n"
 echo -e "\n"
 sleep 1
@@ -29,7 +30,11 @@ mv "${PIHOLE_LOCATION}"/whitelist.txt "${PIHOLE_LOCATION}"/whitelist.txt.old && 
 
 echo -e " [...] \e[32m Pi-hole gravity erstellt die Listen jetzt neu. Das kann etwas dauern... \e[0m"
 ${GRAVITY_UPDATE_COMMAND} > /dev/null
+
+while read in; do pihole -w -q "$in"; done < /listen/zulassungsliste.txt
  
 echo -e " ${TICK} \e[32m Pi-hole's gravity wurde geupdated \e[0m"
 echo -e " ${TICK} \e[32m Fertig! \e[0m"
 echo -e "\n\n"
+
+
