@@ -31,7 +31,7 @@ mv "${PIHOLE_LOCATION}"/whitelist.txt "${PIHOLE_LOCATION}"/whitelist.txt.old && 
 echo -e " [...] \e[32m Pi-hole gravity erstellt die Listen jetzt neu. Das kann etwas dauern... \e[0m"
 ${GRAVITY_UPDATE_COMMAND} > /dev/null
 
-while read in; do pihole -w -q "$in"; done < /listen/zulassungsliste.txt
+while read in; do pihole -w -q "$in"; done < listen/zulassungsliste.txt
  
 echo -e " ${TICK} \e[32m Pi-hole's gravity wurde geupdated \e[0m"
 echo -e " ${TICK} \e[32m Fertig! \e[0m"
