@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 14.05.2020
+# Updated: 26.05.2020
 #
 # BEGIN BLOCKLIST:
 adspyglass.com
@@ -32,6 +32,7 @@ erotikvonnebenan.de
 eu-adsrv.rtbsuperhub.com
 exosrv.com
 freeadult.com
+funwarcab.club
 gambigambiwinwin.com
 game7350.grownsnd31.live
 go.stripchat.com
