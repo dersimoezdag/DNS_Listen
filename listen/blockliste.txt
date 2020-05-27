@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 26.05.2020
+# Updated: 28.05.2020
 #
 # BEGIN BLOCKLIST:
 adspyglass.com
@@ -16,6 +16,7 @@ advisepchelp.com
 airdsply.com
 amanda.ttnrd.com
 bbom2b434493.com
+bbom2b434493.com
 best-dates-here.com
 best2019-games-web4.com
 biete-heute-an.online
@@ -24,6 +25,7 @@ browsergames2.com
 browsergames2019.com
 cjf25jklrwqt.com
 dadsats.com
+de.stripchat.com
 destore-daindmade.com
 dzluozfq.com
 easygamepromo.com
@@ -44,8 +46,10 @@ lapalingo.com
 mydirtyhobby.com
 mydirtyhobby.de
 node--olivia.vivo.sx
+nta1vb6cdlrl.com
 nvh3cqf9.jijiuyexzx.host
 o3sndvzo25.com
+pervert.chat
 pf4y2a54hx.com
 premiumize.me
 r6ztccbkdrbi.com
@@ -62,3 +66,4 @@ takelnk.com
 top5ficktreffen.de
 wrison-subustall.com
 z3dmbpl6309s.com
+sefsdvc.com
