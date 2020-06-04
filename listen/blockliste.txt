@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 28.05.2020
+# Updated: 04.06.2020
 #
 # BEGIN BLOCKLIST:
 adspyglass.com
@@ -15,7 +15,6 @@ adultyourblocksitecom-715562312.us-east-1.elb.amazonaws.com
 advisepchelp.com
 airdsply.com
 amanda.ttnrd.com
-bbom2b434493.com
 bbom2b434493.com
 best-dates-here.com
 best2019-games-web4.com
@@ -39,6 +38,7 @@ gambigambiwinwin.com
 game7350.grownsnd31.live
 go.stripchat.com
 gotrack1.es
+hentaiheroes.com
 hentaiheroes.com
 installflash-stream.com
 ladsats.com
