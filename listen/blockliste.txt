@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 04.06.2020
+# Updated: 28.06.2020
 #
 # BEGIN BLOCKLIST:
 adspyglass.com
@@ -51,6 +51,7 @@ nvh3cqf9.jijiuyexzx.host
 o3sndvzo25.com
 pervert.chat
 pf4y2a54hx.com
+platincasino.com
 premiumize.me
 r6ztccbkdrbi.com
 rotumal.com
