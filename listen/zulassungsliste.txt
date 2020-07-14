@@ -18,6 +18,9 @@ settings-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 #
+# Southpark
+script.ioam.de
+#
 # Hoster
 nitroflare.com
 #
