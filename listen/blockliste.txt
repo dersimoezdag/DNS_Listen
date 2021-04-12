@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
 #
-# Updated: 01.04.2021
+# Updated: 12.04.2021
 #
 # BEGIN BLOCKLIST:
 adspyglass.com
