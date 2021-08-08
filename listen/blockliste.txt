@@ -2,7 +2,7 @@
 # 
 # Author: DOE
 # Home: https://github.com/DMOEdetc/DNS_Listen
-# @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/blockliste.txt
+# @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/listen/blockliste.txt
 #
 # Updated: 08.08.2021
 #
