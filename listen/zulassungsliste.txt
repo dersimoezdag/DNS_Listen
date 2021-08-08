@@ -2,9 +2,9 @@
 # 
 # Author: DOE
 # Home: https://github.com/DMOEdetc/DNS_Listen
-# @ GitHub: https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/zulassungsliste.txt
+# @ GitHub: https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/listen/zulassungsliste.txt
 #
-# Updated: 29.02.2020
+# Updated: 08.08.2021
 #
 # BEGIN WHITELIST#
 #
