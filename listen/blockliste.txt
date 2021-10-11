@@ -4,7 +4,7 @@
 # Home: https://github.com/DMOEdetc/DNS_Listen
 # @ GitHub : https://raw.githubusercontent.com/DMOEdetc/DNS_Listen/master/listen/blockliste.txt
 #
-# Updated: 08.08.2021
+# Updated: 11.10.2021
 #
 # BEGIN BLOCKLIST:
 adspyglass.com
@@ -12,6 +12,7 @@ adult.yourblocksite.com
 adultgame.com
 adultgames.com
 adultyourblocksitecom-715562312.us-east-1.elb.amazonaws.com
+adverdirect.com
 advisepchelp.com
 airdsply.com
 amanda.ttnrd.com
@@ -19,7 +20,9 @@ bbom2b434493.com
 best-dates-here.com
 best2019-games-web4.com
 biete-heute-an.online
+big7.com
 bitcoinnews.buzz
+bookandball.es
 browsergames2.com
 browsergames2019.com
 cjf25jklrwqt.com
@@ -43,18 +46,28 @@ hentaiheroes.com
 installflash-stream.com
 ladsats.com
 lapalingo.com
+mainmrkting.com
 mydirtyhobby.com
 mydirtyhobby.de
+myprofitmethods.com
+myprofitmethods1.com
+myprofitmethods2.com
+myprofitmethods3.com
+news-bitcoin.club
 node--olivia.vivo.sx
 nta1vb6cdlrl.com
+ntvpevnts.com
 nvh3cqf9.jijiuyexzx.host
 o3sndvzo25.com
 pervert.chat
 pf4y2a54hx.com
 platincasino.com
+platincasino.com
+platincasino.com
 premiumize.me
 r6ztccbkdrbi.com
 rotumal.com
+rsafrwd.com
 runative-syndicate.com
 sadskiz.com
 screenaddict.thewhizproduct
@@ -68,14 +81,3 @@ takelnk.com
 top5ficktreffen.de
 wrison-subustall.com
 z3dmbpl6309s.com
-big7.com
-rsafrwd.com
-news-bitcoin.club
-adverdirect.com
-myprofitmethods.com
-myprofitmethods1.com
-myprofitmethods2.com
-myprofitmethods3.com
-bookandball.es
-mainmrkting.com
-platincasino.com
