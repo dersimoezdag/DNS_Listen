@@ -144,3 +144,7 @@ edge.api.brightcove.com
 cdn.vidible.tv
 hqq.tv
 fanart.tv
+#
+# Twitter
+t.com
+t.co
