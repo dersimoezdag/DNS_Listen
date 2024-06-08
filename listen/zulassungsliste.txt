@@ -8,6 +8,10 @@
 #
 # BEGIN WHITELIST#
 #
+# VG WORT
+tom.vgwort.de
+vgwort.de
+#
 # Google
 s.youtube.com
 video-stats.l.google.com
